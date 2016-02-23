@@ -1,3 +1,4 @@
 hogehoge
 branchを表示させました
 branchについて変数解決した
+branchについて正規表現もろもろ試す
